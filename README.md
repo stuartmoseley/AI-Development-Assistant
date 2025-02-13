@@ -17,7 +17,7 @@ The AI Development Assistant is a tool designed to enhance your development work
 ### Machine Learning & AI Enhancements
 - **Improve the code error prediction model with a larger dataset** - **Included and Working**
 - **Add a feature to suggest code optimizations using AI** - **Included and Working**
-- **Implement AI-powered code completion and snippet suggestions** - **Not Included**
+- **Implement AI-powered code completion and snippet suggestions** - **Included and Working**
 
 ### Automation & DevOps
 - **Enable automated deployment scripts for Docker, Kubernetes, and CI/CD pipelines** - **Included and Working**
@@ -35,6 +35,8 @@ To install the required dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
+
+Sure, here is the updated `README.md` file:
 
 ```markdown
 # AI Development Assistant
@@ -56,7 +58,7 @@ The AI Development Assistant is a tool designed to enhance your development work
 ### Machine Learning & AI Enhancements
 - **Improve the code error prediction model with a larger dataset** - **Included and Working**
 - **Add a feature to suggest code optimizations using AI** - **Included and Working**
-- **Implement AI-powered code completion and snippet suggestions** - **Not Included**
+- **Implement AI-powered code completion and snippet suggestions** - **Included and Working**
 
 ### Automation & DevOps
 - **Enable automated deployment scripts for Docker, Kubernetes, and CI/CD pipelines** - **Included and Working**
@@ -143,7 +145,11 @@ You will be presented with a menu of options to choose from. Select the desired 
     - Enter the log file path.
     - The assistant will display real-time logs from the specified file.
 
-15. **Exit**
+15. **Get Code Completion and Snippet Suggestions**
+    - Enter the code context.
+    - The assistant will provide multiple code completions and snippet suggestions.
+
+16. **Exit**
     - Exit the AI Development Assistant.
 
 ## Contributing
