@@ -83,7 +83,7 @@ pip install -r requirements.txt
 To start the AI Development Assistant, run the following command:
 
 ```bash
-python AI.py
+python Multi-AI.py
 ```
 
 You will be presented with a menu of options to choose from. Select the desired option by entering the corresponding number.
