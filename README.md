@@ -1,4 +1,4 @@
-# AI Development Assistant
+# AI Development Assistant (currently not working)
 
 The AI Development Assistant is a tool designed to enhance your development workflow by providing various features such as project template creation, code linting, static analysis, machine learning-based code predictions, and more. This assistant supports over 100+ frameworks and languages, making it a versatile tool for developers.
 
